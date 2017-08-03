@@ -1,0 +1,29 @@
+Capstone Presentation: A Word Prediction Model
+========================================================
+author: Haifeng Yu
+date: 2017-08-02
+autosize: true
+
+Overview
+========================================================
+This is the last course of the Coursera's Data Science specializaiton. In this course I need to develop an interactive web application which predicts the next word when user types in a natural language. I am provided a large corpus of texts from blogs, twitters and news to start with.
+
+The project include below milestones:
+- Explore and clean the data
+- Model creation, validation and optimization
+- Build an web based App using Shiny
+- Write a report presentation
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
